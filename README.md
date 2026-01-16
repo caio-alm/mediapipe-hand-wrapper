@@ -20,6 +20,8 @@ O código principal funciona tanto como um módulo importável quanto como um sc
 - **Detecção em Tempo Real:** Captura e processa vídeo diretamente da webcam.
 - **Rastreamento Multi-Mão:** Configurado por padrão para detectar até 2 mãos simultaneamente.
 - **Visualização de Landmarks:** Desenha as conexões e articulações da mão na tela.
+- **Contagem de Dedos:** Método integrado para identificar quantos dedos estão levantados.
+- **Identificador de Sinal:** Mostra qual sinal a mão está fazendo (Sinais: Peace, Hang Loose, e Rock)
 - **Código Modular:** Estrutura de Classe (`Detector`) pronta para ser importada em outros scripts.
 
 ## Tecnologias Utilizadas

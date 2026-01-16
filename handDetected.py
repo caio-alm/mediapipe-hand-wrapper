@@ -6,7 +6,7 @@ webcam_image = np.ndarray
 rgb_tuple = tuple[int, int, int]
 signals = {
     "Peace": [False, True, True, False, False],
-    "Hang Lose": [True, False, False, False, True],
+    "Hang Loose": [True, False, False, False, True],
     "Rock": [False, True, False, False, True]
 }
 

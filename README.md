@@ -35,11 +35,11 @@ O código principal funciona tanto como um módulo importável quanto como um sc
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/caio-alm/mediapipe-hand-wrapper.git](https://github.com/caio-alm/mediapipe-hand-wrapper.git)
+   git clone https://github.com/caio-alm/mediapipe-hand-wrapper.git
    ```
 2. **Entre na pasta:**
   ```bash
-  cd nome-da-pasta
+  cd mediapipe-hand-wrapper
   ```
 3. **Instale o requirements.txt:**
   ```bash
